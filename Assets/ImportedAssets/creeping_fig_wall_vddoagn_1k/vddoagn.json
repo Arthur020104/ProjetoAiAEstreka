@@ -1,0 +1,606 @@
+{
+  "assetCategories": {
+    "surface": {
+      "other": {
+        "various": {}
+      }
+    }
+  },
+  "averageColor": "#000000",
+  "categories": [
+    "surface",
+    "other",
+    "various"
+  ],
+  "comp_version": 1,
+  "description": "",
+  "displacementBias": 0.645648,
+  "displacementCalibrationAccuracy": 0.834506,
+  "displacementScale": 3.531499,
+  "environment": {
+    "biome": "rural",
+    "region": "Asia"
+  },
+  "highest_available_res": 8192,
+  "id": "vddoagn",
+  "json": {
+    "contentLength": 12693,
+    "uri": "vddoagn.json"
+  },
+  "maps": [
+    {
+      "averageColor": "#787878",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 221693203,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "vddoagn_8K_AO.exr"
+    },
+    {
+      "averageColor": "#787878",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 39814641,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "AO",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "ao",
+      "uri": "vddoagn_8K_AO.jpg"
+    },
+    {
+      "averageColor": "#423E2B",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 251441591,
+      "maxIntensity": 118,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "vddoagn_8K_Basecolor.exr"
+    },
+    {
+      "averageColor": "#423E2B",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 39207295,
+      "maxIntensity": 118,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Basecolor",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "basecolor",
+      "uri": "vddoagn_8K_Basecolor.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 208420114,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "vddoagn_8K_Bump.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 22189350,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 0,
+      "name": "Bump",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "bump",
+      "uri": "vddoagn_8K_Bump.jpg"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 32,
+      "colorSpace": "sRGB",
+      "contentLength": 204858252,
+      "maxIntensity": 255,
+      "mimeType": "image/x-exr",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "vddoagn_8K_Cavity.exr"
+    },
+    {
+      "averageColor": "#FFFFFF",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 51048073,
+      "maxIntensity": 255,
+      "mimeType": "image/jpeg",
+      "minIntensity": 255,
+      "name": "Cavity",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "cavity",
+      "uri": "vddoagn_8K_Cavity.jpg"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 266814826,
+      "maxIntensity": 148,
+      "mimeType": "image/x-exr",
+      "minIntensity": 102,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "vddoagn_8K_Displacement.exr"
+    },
+    {
+      "averageColor": "#808080",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 8462344,
+      "maxIntensity": 148,
+      "mimeType": "image/jpeg",
+      "minIntensity": 102,
+      "name": "Displacement",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "displacement",
+      "uri": "vddoagn_8K_Displacement.jpg"
+    },
+    {
+      "averageColor": "#4C4C4C",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 115367506,
+      "maxIntensity": 145,
+      "mimeType": "image/x-exr",
+      "minIntensity": 28,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "vddoagn_8K_Gloss.exr"
+    },
+    {
+      "averageColor": "#4C4C4C",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 30422437,
+      "maxIntensity": 145,
+      "mimeType": "image/jpeg",
+      "minIntensity": 28,
+      "name": "Gloss",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "gloss",
+      "uri": "vddoagn_8K_Gloss.jpg"
+    },
+    {
+      "averageColor": "#8482E1",
+      "bitDepth": 16,
+      "colorSpace": "Linear",
+      "contentLength": 236246535,
+      "maxIntensity": 224,
+      "mimeType": "image/x-exr",
+      "minIntensity": 58,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "vddoagn_8K_Normal.exr"
+    },
+    {
+      "averageColor": "#8482E1",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 94678139,
+      "maxIntensity": 224,
+      "mimeType": "image/jpeg",
+      "minIntensity": 58,
+      "name": "Normal",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "normal",
+      "uri": "vddoagn_8K_Normal.jpg"
+    },
+    {
+      "averageColor": "#B3B3B3",
+      "bitDepth": 32,
+      "colorSpace": "Linear",
+      "contentLength": 111541950,
+      "maxIntensity": 227,
+      "mimeType": "image/x-exr",
+      "minIntensity": 110,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "vddoagn_8K_Roughness.exr"
+    },
+    {
+      "averageColor": "#B3B3B3",
+      "bitDepth": 8,
+      "colorSpace": "Linear",
+      "contentLength": 29569186,
+      "maxIntensity": 227,
+      "mimeType": "image/jpeg",
+      "minIntensity": 110,
+      "name": "Roughness",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "roughness",
+      "uri": "vddoagn_8K_Roughness.jpg"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 16,
+      "colorSpace": "sRGB",
+      "contentLength": 242677862,
+      "maxIntensity": 56,
+      "mimeType": "image/x-exr",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "vddoagn_8K_Specular.exr"
+    },
+    {
+      "averageColor": "#383838",
+      "bitDepth": 8,
+      "colorSpace": "sRGB",
+      "contentLength": 33416645,
+      "maxIntensity": 56,
+      "mimeType": "image/jpeg",
+      "minIntensity": 56,
+      "name": "Specular",
+      "physicalSize": "2x2",
+      "resolution": "8192x8192",
+      "type": "specular",
+      "uri": "vddoagn_8K_Specular.jpg"
+    }
+  ],
+  "meta": [
+    {
+      "key": "scanArea",
+      "name": "Scan Area",
+      "value": "2x2 m"
+    },
+    {
+      "key": "height",
+      "name": "Height",
+      "value": "0.036 m"
+    },
+    {
+      "key": "tileable",
+      "name": "Tileable",
+      "value": true
+    },
+    {
+      "key": "tiling_directions",
+      "name": "Tiling Directions",
+      "value": [
+        "x",
+        "y"
+      ]
+    },
+    {
+      "key": "texelDensity",
+      "name": "Texel Density",
+      "value": "4096 px/m"
+    },
+    {
+      "key": "calibration",
+      "name": "Calibration",
+      "value": "GretagMacbeth ColorChecker Color Rendition Chart"
+    },
+    {
+      "key": "scanner",
+      "name": "Scanner",
+      "value": "MKX"
+    }
+  ],
+  "models": [],
+  "name": "Creeping Fig Wall",
+  "pack": null,
+  "physicalSize": null,
+  "points": 2,
+  "previews": {
+    "images": [
+      {
+        "contentLength": 287373,
+        "resolution": "360x360",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "vddoagn_Grid_360.png"
+      },
+      {
+        "contentLength": 388305,
+        "resolution": "420x420",
+        "tags": [
+          "thumb"
+        ],
+        "uri": "vddoagn_Grid_420.png"
+      },
+      {
+        "contentLength": 1095048,
+        "resolution": "720x720",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "vddoagn_Grid_720.png"
+      },
+      {
+        "contentLength": 1497014,
+        "resolution": "840x840",
+        "tags": [
+          "thumb",
+          "retina"
+        ],
+        "uri": "vddoagn_Grid_840.png"
+      },
+      {
+        "contentLength": 3908922,
+        "resolution": "1440x810",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "vddoagn_PopupClay_1440.png"
+      },
+      {
+        "contentLength": 6905636,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "clay"
+        ],
+        "uri": "vddoagn_PopupClay_1920.png"
+      },
+      {
+        "contentLength": 15113870,
+        "resolution": "2880x1620",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "vddoagn_PopupClay_2880.png"
+      },
+      {
+        "contentLength": 25767493,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "clay",
+          "retina"
+        ],
+        "uri": "vddoagn_PopupClay_3840.png"
+      },
+      {
+        "contentLength": 3214794,
+        "resolution": "1440x810",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "vddoagn_PopupTiled_1440.png"
+      },
+      {
+        "contentLength": 5738686,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview",
+          "tiled"
+        ],
+        "uri": "vddoagn_PopupTiled_1920.png"
+      },
+      {
+        "contentLength": 12700860,
+        "resolution": "2880x1620",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "vddoagn_PopupTiled_2880.png"
+      },
+      {
+        "contentLength": 22240531,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "tiled",
+          "retina"
+        ],
+        "uri": "vddoagn_PopupTiled_3840.png"
+      },
+      {
+        "contentLength": 3231282,
+        "resolution": "1440x810",
+        "tags": [
+          "preview"
+        ],
+        "uri": "vddoagn_Popup_1440.png"
+      },
+      {
+        "contentLength": 5743972,
+        "resolution": "1920x1080",
+        "tags": [
+          "preview"
+        ],
+        "uri": "vddoagn_Popup_1920.png"
+      },
+      {
+        "contentLength": 12596586,
+        "resolution": "2880x1620",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "vddoagn_Popup_2880.png"
+      },
+      {
+        "contentLength": 21801543,
+        "resolution": "3840x2160",
+        "tags": [
+          "preview",
+          "retina"
+        ],
+        "uri": "vddoagn_Popup_3840.png"
+      }
+    ],
+    "relativeSize": "1x1",
+    "scaleReferences": []
+  },
+  "process_date": "2024-04-16 23:42:33",
+  "properties": [],
+  "referencePreviews": {
+    "maps": [],
+    "models": []
+  },
+  "references": [],
+  "revised": false,
+  "revision": 0,
+  "semanticTags": {
+    "architectural_style": {},
+    "asset_type": "surface",
+    "color": [
+      "Green",
+      "Gray"
+    ],
+    "contains": [
+      "vines",
+      "vegetation",
+      "roots",
+      "branches",
+      "living-walls",
+      "climbing-fig",
+      "fig-ivy"
+    ],
+    "country": "Pakistan",
+    "descriptive": [
+      "old",
+      "green",
+      "growing",
+      "patchy",
+      "climbing",
+      "wilting"
+    ],
+    "environment": [
+      "rural",
+      "urban"
+    ],
+    "industry": [
+      "archviz",
+      "games",
+      "VFX"
+    ],
+    "interior_exterior": [
+      "exterior"
+    ],
+    "locations": {
+      "Asia": {
+        "Pakistan": {}
+      }
+    },
+    "maxSize": 2,
+    "minSize": 2,
+    "name": "Creeping Fig Wall",
+    "region": "Asia",
+    "state": [
+      "old"
+    ],
+    "subject_matter": "nature",
+    "theme": [
+      "outdoors",
+      "exteriors",
+      "rural",
+      "homes",
+      "lawns",
+      "walls",
+      "gardens"
+    ]
+  },
+  "tags": [
+    "green",
+    "gray",
+    "outdoors",
+    "exteriors",
+    "rural",
+    "homes",
+    "lawns",
+    "walls",
+    "gardens",
+    "vines",
+    "vegetation",
+    "plant-walls",
+    "living-walls",
+    "climbing-fig",
+    "fig-ivy",
+    "lush",
+    "growing",
+    "patchy",
+    "climbing"
+  ],
+  "texelDensity": 4096,
+  "texture_type": "basic",
+  "ue_plugin_archives": [
+    {
+      "contentLength": 315758994,
+      "gltfVersion": "2.0",
+      "tier": 0,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_0/vddoagn_tier_0.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 106677260,
+      "gltfVersion": "2.0",
+      "tier": 1,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_1/vddoagn_tier_1.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 27042309,
+      "gltfVersion": "2.0",
+      "tier": 2,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_2/vddoagn_tier_2.zip",
+      "version": 1
+    },
+    {
+      "contentLength": 2789076,
+      "gltfVersion": "2.0",
+      "tier": 3,
+      "type": "gltf",
+      "uri": "ue_plugin_archives/tier_3/vddoagn_tier_3.zip",
+      "version": 1
+    }
+  ],
+  "version": 2
+}
