@@ -394,6 +394,10 @@ MonoBehaviour:
   _popUpTextField: {fileID: 4186220446637533389}
   _popupCharacterDisplayInterval: 0.05
   _durationBeforePopUpTextDestroy: 1.5
+  _gameOverPanel: {fileID: 0}
+  _inicialText: []
+  _portal: {fileID: 0}
+  gameOver: 0
 --- !u!1 &8603841704640434653
 GameObject:
   m_ObjectHideFlags: 0
