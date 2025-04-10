@@ -77,7 +77,7 @@ TrailRenderer:
   m_SortingLayerID: 0
   m_SortingLayer: 0
   m_SortingOrder: 0
-  m_Time: 1
+  m_Time: 3
   m_PreviewTimeScale: 1
   m_Parameters:
     serializedVersion: 3
@@ -109,7 +109,7 @@ TrailRenderer:
     colorGradient:
       serializedVersion: 2
       key0: {r: 0.5471698, g: 0.14139776, b: 0.002580996, a: 1}
-      key1: {r: 0, g: 0, b: 0, a: 0.32941177}
+      key1: {r: 0.066037714, g: 0, b: 0, a: 0.65882355}
       key2: {r: 0, g: 0, b: 0, a: 0}
       key3: {r: 0, g: 0, b: 0, a: 0}
       key4: {r: 0, g: 0, b: 0, a: 0}
@@ -195,3 +195,4 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   _moveSpeed: 10
   _minDistanceToPos: 0.1
+  _timeToDestoyAftherReachTarget: 3
